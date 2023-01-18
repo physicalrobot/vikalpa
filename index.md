@@ -1,8 +1,15 @@
 ---
-layout: page
-title: Thank You!
+layout: welcome
+title: विकल्प
+cover: true
+projects_page: projects.md
+
 sitemap: false
 ---
+<!--projects-->
+
+
+
 
 Thank you for buying the PRO version of Hydejack! 🎉
 
