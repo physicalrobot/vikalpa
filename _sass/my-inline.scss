@@ -9,5 +9,29 @@
 
 
 .page-title{
-    text-align: right;
+    // text-align: left;
+}
+
+// .column.column-1-2{
+//     background: none;
+//     border: none;
+//     padding: 0;
+
+//   }
+
+
+
+.fill-card.no-hover{
+    left: 8px;
+
+}
+
+
+
+
+.column.column-1-2{
+    background-color: transparent;
+    background-image: url('/assets/img/blackwallcanvas.png');
+    border-radius: 10px;
+
 }
