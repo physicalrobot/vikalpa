@@ -6,6 +6,9 @@ projects_page: projects.md
 
 sitemap: false
 ---
+Vikalpa is a concept that has been lost in translation and used in my culture for thousands of years. 
+
+
 <!--projects-->
 
 
