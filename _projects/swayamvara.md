@@ -1,10 +1,9 @@
 ---
 layout: project
 title: Swayamvara
-caption: How I use Hydejack on my personal site.
+caption: When two people are meant for each other it's always a matter of time. 
 description: >
-  This is how I use Hydejack on my personal site. 
-  Much of the development is informed from my experience of using it myself, creating a tight feedback loop.
+  
 date: 1 Jun 2020
 image: 
   path: /assets/img/projects/Swayamvara.png
@@ -16,7 +15,7 @@ links:
   - title: Link
     url: https://qwtel.com/
 accent_color: '#4fb1ba'
-accent_image:
+accent_image: /assets/img/projects/Swayamvara.png
   # background: '#193747'
 theme_color: '#193747'
 sitemap: false

@@ -1,20 +1,17 @@
 ---
 layout: post
-title: Hydejack, Stripe-ified
-image: /assets/img/blog/jj-ying.jpg
-accent_image: 
-  background: url('/assets/img/blog/jj-ying.jpg') center/cover
-  overlay: false
+title: Being An Artist.
+image: /assets/img/logo.png
+accent_image: /assets/img/blackwallcanvas.png
+  # background: url('/assets/img/logo.png') center/cover
+  # overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
-description: >
-  Version 9.1 provides minor design changes, new features, and closes multiple issues.
-invert_sidebar: true
+invert_sidebar: false
 ---
 
-# What's New in Hydejack 9.1?
-
-What's New in Hydejack 9.1?
+# Making Art
+Making Art
 
 * toc
 {:toc}

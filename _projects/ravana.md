@@ -16,7 +16,7 @@ links:
   - title: Link
     url: https://qwtel.com/
 accent_color: '#4fb1ba'
-accent_image:
+accent_image: /assets/img/projects/Ravana.png
   # background: '#193747'
 theme_color: '#193747'
 sitemap: false
