@@ -3,7 +3,6 @@ layout: projects
 title: Gallery
 show_collection: projects
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+  A place where I explain my projects and what they mean to me.  
 no_groups: true
 ---
